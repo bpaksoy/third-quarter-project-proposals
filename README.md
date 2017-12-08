@@ -12,7 +12,7 @@ Banu, Stephanie, Sam, Ricky
 HiScholar, school comparison tool moving towards the direction of a social interaction app for high school students nearing college in the U.S. and perhaps alumni of said colleges.
 
 ## Who uses it?
-international students seeking to attend a U.S. university or college and will compare multiple schools on the UI based on their
+international students seeking to attend a U.S. university or college and will compare multiple schools on the UI based on their profile information and selection.
 
 ## What outputs do they need?
 Profile pic, personal info, test scores, personal statement, resume/CV, newsfeed, other users, school comparison tool, newsfeed page, school profile pages
